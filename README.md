@@ -9,3 +9,9 @@ You can ooh and aah over a mind-boggling number of gorgeous European artworks (m
 
 Works by the Spanish artists El Greco and Goya. Dutch art from the 17th century by Rembrandt and Johannes Vermeer. French paintings by Claude Monet, Edgar Degas, Paul Cezanne and Van Gogh.
 
+
+---
+# Diections to Museum from the airport
+### Nearest airport  to Meseum location-John F.D International airport.
+1.Take a safe ride from kansas airport to Newyork airport(John F.Kennedy Internationl Airport)
+2. Take a ride from John F.K airport to Metropolitan Museum airport.(which is about 18 miles).
