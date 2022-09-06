@@ -13,5 +13,12 @@ Works by the Spanish artists El Greco and Goya. Dutch art from the 17th century 
 ---
 # Diections to Museum from the airport
 ### Nearest airport  to Meseum location-John F.D International airport.
-1.Take a safe ride from kansas airport to Newyork airport(John F.Kennedy Internationl Airport)
-2. Take a ride from John F.K airport to Metropolitan Museum airport.(which is about 18 miles).
+1. Take a safe ride from kansas airport to Newyork airport(John F.Kennedy Internationl Airport).
+2.  Take a ride from John F.K airport to Metropolitan Museum airport.(which is about 18 miles).
+
+#### List of other Locations around the museum that I recommend for others.
+* Central Park
+* Ancient playground
+* Obelisk
+* Mephisto
+* Easter Prade
