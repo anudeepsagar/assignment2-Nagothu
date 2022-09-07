@@ -21,6 +21,6 @@ Works by the Spanish artists El Greco and Goya. Dutch art from the 17th century 
 * Ancient playground
 * Obelisk
 * Mephisto
-* Easter Prade 
+* Easter Prade
 
 **[Link to AboutMe](AboutMe.md)**
