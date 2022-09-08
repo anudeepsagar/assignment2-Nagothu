@@ -24,3 +24,14 @@ Works by the Spanish artists El Greco and Goya. Dutch art from the 17th century 
 * Easter Prade
 
 **[Link to AboutMe](AboutMe.md)**
+
+# City to visit - Table
+
+I would like to rediscrible some good cities  to visit those are :-
+
+|Name of the city|Location|Time you can spend|
+
+|Banglore|Electric city| 3 hrs|
+|Ooty|Coffe plantation|8 hrs|
+kerala|beaches and ponds|4hrs|
+
