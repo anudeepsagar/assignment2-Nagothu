@@ -33,7 +33,8 @@ I would like to rediscrible some good cities  to visit those are :-
 |:---:|:---:|:---:|
 |Banglore|Electric city| 3 hrs|
 |Ooty|Coffe plantation|8 hrs|
-kerala|beaches and ponds|4hrs|
+|kerala|beaches and ponds|4hrs|
+|Hyderabad|Hitech city|1 hr|
 
 ---
 ## Quotes
