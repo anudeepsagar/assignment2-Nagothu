@@ -40,4 +40,17 @@ kerala|beaches and ponds|4hrs|
 
 > “We cannot solve problems with the kind of thinking we employed when we came up with them.” — Albert Einstein <br>
 
->“Nature has given us all the pieces required to achieve exceptional wellness and health, but has left it to us to put these pieces together.”—Diane McLaren
+>“Nature has given us all the pieces required to achieve exceptional wellness and health, but has left it to us to put these pieces together.”—Diane McLaren.
+
+---
+# Fencing
+>Javascript - Get URL and URL Parts in 
+>> https://stackoverflow.com/questions/6944744/javascript-get-portion-of-url-path
+```
+var newPathname = "";
+for (i = 0; i < pathArray.length; i++) {
+  newPathname += "/";
+  newPathname += pathArray[i];
+}
+```
+**[Link to code snippet](https://css-tricks.com/snippets/javascript/get-url-and-url-parts-in-javascript/)**
