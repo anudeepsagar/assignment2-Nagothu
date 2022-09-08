@@ -35,3 +35,9 @@ I would like to rediscrible some good cities  to visit those are :-
 |Ooty|Coffe plantation|8 hrs|
 kerala|beaches and ponds|4hrs|
 
+---
+## Quotes
+
+> “We cannot solve problems with the kind of thinking we employed when we came up with them.” — Albert Einstein <br>
+
+>“Nature has given us all the pieces required to achieve exceptional wellness and health, but has left it to us to put these pieces together.”—Diane McLaren
